@@ -1,0 +1,24 @@
+VCD info: dumpfile counter.vcd opened for output.
+Time=0 reset=1 count= 0
+Time=15000 reset=0 count= 1
+Time=25000 reset=0 count= 2
+Time=35000 reset=0 count= 3
+Time=45000 reset=0 count= 4
+Time=55000 reset=0 count= 5
+Time=65000 reset=0 count= 6
+Time=75000 reset=0 count= 7
+Time=85000 reset=0 count= 8
+Time=95000 reset=0 count= 9
+Time=105000 reset=0 count=10
+Time=115000 reset=0 count=11
+Time=125000 reset=0 count=12
+Time=135000 reset=0 count=13
+Time=145000 reset=0 count=14
+Time=155000 reset=0 count=15
+Time=165000 reset=0 count= 0
+Time=175000 reset=0 count= 1
+Time=185000 reset=0 count= 2
+Time=195000 reset=0 count= 3
+Time=205000 reset=0 count= 4
+counter_tb.v:24: $finish called at 215000 (1ps)
+Time=215000 reset=0 count= 5
